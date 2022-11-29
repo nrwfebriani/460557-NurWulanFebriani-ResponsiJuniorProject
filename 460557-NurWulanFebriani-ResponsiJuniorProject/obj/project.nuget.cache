@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9lN3a1XeZmCkuy/trwNxi+B4lf14iPIPCLY7tg5JUJ5sviACis/sMtXXq69xJwLw3iUXLQnSZRnEPeOalC0BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nur Wulan Febriani\\source\\repos\\460557-NurWulanFebriani-ResponsiJuniorProject\\460557-NurWulanFebriani-ResponsiJuniorProject\\460557-NurWulanFebriani-ResponsiJuniorProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nur Wulan Febriani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nur Wulan Febriani\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nur Wulan Febriani\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
